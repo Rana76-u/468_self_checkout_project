@@ -28,9 +28,9 @@ Input Video → YOLO Detection → Class Filter → DeepSORT Tracking → Bill R
 
 ## Demo Video
 
-```
-[![Watch the video](https://img.youtube.com/vi/jqCTpxwdPgQ?si=0myuqFKH-NujbGa4/0.jpg)](https://www.youtube.com/watch?v=jqCTpxwdPgQ?si=0myuqFKH-NujbGa4)
-```
+
+[![Watch the demo video](https://checklens.ai/wp-content/uploads/2022/09/Loss-prevention-at-the-Self-Checkout.jpg)](https://www.youtube.com/watch?v=jqCTpxwdPgQ?si=0myuqFKH-NujbGa4)
+
 
 ---
 
