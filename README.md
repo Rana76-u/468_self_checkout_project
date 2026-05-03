@@ -26,6 +26,14 @@ Input Video → YOLO Detection → Class Filter → DeepSORT Tracking → Bill R
 
 ---
 
+## Demo Video
+
+```
+[![Watch the video](https://img.youtube.com/vi/jqCTpxwdPgQ?si=0myuqFKH-NujbGa4/0.jpg)](https://www.youtube.com/watch?v=jqCTpxwdPgQ?si=0myuqFKH-NujbGa4)
+```
+
+---
+
 ## Requirements
 
 Install all dependencies in one command (Google Colab):
